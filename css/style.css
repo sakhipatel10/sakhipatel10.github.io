@@ -317,7 +317,7 @@ h5{
 }
 
 .items .projectLink {
-	float: right;
+	float: none;
 	right: -200px;
 }
 
